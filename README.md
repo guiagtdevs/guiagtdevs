@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil GuiAgtDevs 😁
+## Welcome to profile GuiAgtDevs 😁
 
  <div>
    <a href="https://github.com/guiagtdevs">
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### To access my social networks, click below:
  
 <div> 
   
